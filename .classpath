@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/jar_files/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/jackson-databind-2.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/jackson-core-2.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/jackson-dataformat-xml-2.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/jjwt-jackson-0.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/stax2-api-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/twilio-10.0.0-rc.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/woodstox-core-6.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/commons-io-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/jackson-annotations-2.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/jackson-datatype-jsr310-2.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/jjwt-api-0.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Twiliojar_files/jjwt-impl-0.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/OneDrive/Desktop/MySQLJar/jar_files/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Email jar_files/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/munna/Downloads/Email jar_files/javax.mail-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
